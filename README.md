@@ -10,4 +10,4 @@ Need help? (Ask here!)
 
 To view all open issues click [here](https://github.com/digitalgoodsprovider/digitalgoodsprovider.com/issues)
 
-*·:c*
+[*·:c*](https://digitalgoodsprovider.com)
