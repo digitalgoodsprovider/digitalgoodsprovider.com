@@ -1,4 +1,4 @@
-# *digitalgoodsprovider.com*
+# *Digitalgoodsprovider.com*
 Need help? (Ask here!)
 
 
