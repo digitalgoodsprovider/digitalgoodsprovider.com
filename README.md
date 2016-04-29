@@ -9,3 +9,5 @@ Need help? (Ask here!)
 **Please note: Do not post personal information here as every issue created is available to the public!**
 
 To view all open issues click [here](https://github.com/digitalgoodsprovider/digitalgoodsprovider.com/issues)
+
+*·:c*
