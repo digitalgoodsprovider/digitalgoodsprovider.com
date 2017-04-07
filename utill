@@ -11,8 +11,6 @@ var Break=function(name){
         Break[name]+=1;
         return false;
         }}
-
-
 for(;;){
     console.log('to ininity!');
     var bool;
