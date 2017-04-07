@@ -1,24 +1,24 @@
 var Break=function(name){
-	if(Break[name]==undefined){
-		Break[name]=0;
-		}
-	if(Break[name]>=10000){
-		Break[name]=-1;
-		return 'stackoverflow@'+name;
-		}
-	else{
-		if(Break[name]==-1){Break[name]=0;}
-		Break[name]+=1;
-		return false;
-		}}
-Break.limit=10000;
+    if(Break[name]==undefined){
+        Break[name]=0;
+        }
+    if(Break[name]>=10000){
+        Break[name]=-1;
+        return 'stackoverflow@'+name;
+        }
+    else{
+        if(Break[name]==-1){Break[name]=0;}
+        Break[name]+=1;
+        return false;
+        }}
+
 
 for(;;){
     console.log('to ininity!');
-    var l;
-	if((l=Break('lable1'))){console.log(l);break;}
-	}
-//to ininity!
+    var bool;
+    if((bool=Break('lable1'))){console.log(i,bool);break;}
+    }
+//10001 to ininity!
 //stackoverflow lable1
 
 
@@ -29,7 +29,7 @@ for(;;){
 
 
 
-var circle=[0,1,2,3,4,5,6]
+var circle=[0,1,2,3,4,5,6];
 var array=['a','b','c','d','e','f','g','h','i','j','k','l','m'];
 for(var i=1,j=0;i<array.length;i+=1,(j<circle.length-1?j+=1:j=0)){
     console.log(circle[j]+array[i]);
