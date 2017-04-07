@@ -19,7 +19,7 @@ for(;;){
     if((bool=Break('lable1'))){console.log(i,bool);break;}
     }
 //10001 to ininity!
-//stackoverflow lable1
+//stackoverflow@lable1
 
 
 
