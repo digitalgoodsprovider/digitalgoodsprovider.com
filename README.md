@@ -9,7 +9,7 @@ Need help? (Ask here!)
 > - **ytplaya.com**
 > - **creating yt groups**
 
-<i><b>Tip: Your issue might have already be soved [here](https://github.com/digitalgoodsprovider/digitalgoodsprovider.com/issues?q=is%3Aissue+is%3Aclosed)!</b></i>
+<i><b>Tip: Your issue might have already be solved [here](https://github.com/digitalgoodsprovider/digitalgoodsprovider.com/issues?q=is%3Aissue+is%3Aclosed)!</b></i>
 
 
 [Open an Issue with us](https://github.com/digitalgoodsprovider/digitalgoodsprovider.com/issues/new) and we will get back to you as soon as we can!
