@@ -20,4 +20,4 @@ Need help? (Ask here!)
 
 To view all open issues click **[here](https://github.com/digitalgoodsprovider/digitalgoodsprovider.com/issues)**
 
-[·:*c*](https://digitalgoodsprovider.com)
+[*·:c*](https://digitalgoodsprovider.com)
