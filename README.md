@@ -7,7 +7,7 @@ Need help? (Ask here!)
 > Ask us questions about:
 > - **digitalgoodsprovider.com**
 > - **ytplaya.com**
-> - **creating yt Facebook groups**
+> - **creating yt groups**
 
 <i><b>Tip: Your issue might have already be soved [here](https://github.com/digitalgoodsprovider/digitalgoodsprovider.com/issues?q=is%3Aissue+is%3Aclosed)!</b></i>
 
